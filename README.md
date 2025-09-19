@@ -13,9 +13,9 @@ Built for **beginners, students, and open-source contributors** to learn by doin
 - [Weather App](Web/weather-app)  
 
 ### 🐍 Python  
-- [Calculator](Python/calculator)  
-- [Password Generator](Python/password-generator)  
-- [Quiz Game](Python/quiz-game)  
+- [Calculator](Python/Calculator.py)  
+- [Password Generator](Python/Password-Generator.py)  
+- [Quiz Game](Python/Quiz-Game.py)  
 
 ### ☕ Java  
 - [Bank Management System](Java/bank-management)  
